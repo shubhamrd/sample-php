@@ -28,7 +28,7 @@
         PHP SIMULATION START
         In a real PHP application, the header would be loaded here:
         <?php
-            // $pageTitle = "Shubham - Cloud Technical Consultant";
+            // $pageTitle = "Shubham - Cloud Technical Consultant RPS";
             // include 'partials/meta_tags.php';
         ?>
     -->
