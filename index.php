@@ -84,7 +84,7 @@
                     <span class="block">Shubham: <span class="text-indigo-600">Cloud Technical Consultant</span></span>
                 </h1>
                 <p class="mt-3 max-w-3xl mx-auto text-xl text-gray-500 sm:mt-5">
-                    I design, deploy, and manage highly scalable, secure, and cost-efficient cloud infrastructure. Specializing in modernization and multi-cloud strategies across AWS, Azure, and GCP.
+                    I do design, deploy, and manage highly scalable, secure, and cost-efficient cloud infrastructure. Specializing in modernization and multi-cloud strategies across AWS, Azure, and GCP.
                 </p>
                 <div class="mt-10 flex justify-center space-x-4">
                     <a href="#contact" class="btn-primary bg-indigo-600 text-white px-8 py-3 rounded-xl text-lg font-semibold shadow-lg hover:bg-indigo-700 transition duration-300">
