@@ -81,7 +81,7 @@
         <section class="py-20 lg:py-32 bg-indigo-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                 <h1 class="text-4xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight text-gray-900 mb-6">
-                    <span class="block">Shubham: <span class="text-indigo-600">Cloud Technical Consultant</span></span>
+                    <span class="block">Shubham: <span class="text-indigo-600">Cloud Technical Consultant RPS</span></span>
                 </h1>
                 <p class="mt-3 max-w-3xl mx-auto text-xl text-gray-500 sm:mt-5">
                     I do design, deploy, and manage highly scalable, secure, and cost-efficient cloud infrastructure. Specializing in modernization and multi-cloud strategies across AWS, Azure, and GCP.
